@@ -1,8 +1,8 @@
 # Overview
 
-This project was an excersize using Pygame for my first time. 
+This project was an exercise  using Pygame for my first time. 
 
-It is a very simple game, where you move your sprite around collecting randomly spawned dots on the screen. My inital plan was to create a version of snake, but I am still learning. 
+It is a very simple game, where you move your sprite around collecting randomly spawned dots on the screen. My initial plan was to create a version of snake, but I am still learning. 
 
 I wrote this program in order to learn and practice pygame
 
